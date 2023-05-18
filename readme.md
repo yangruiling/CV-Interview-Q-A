@@ -2,7 +2,7 @@
 
 1. 项目相关
 2. [C++理论](https://github.com/yangruiling/CV-Interview-Q-A/blob/master/C%2B%2B%E7%90%86%E8%AE%BA.md)
-3. Leetcode刷题笔记-C++
+3. [Leetcode刷题笔记-C++](https://github.com/yangruiling/CV-Interview-Q-A/tree/master/Leetcode%E5%88%B7%E9%A2%98%E7%AC%94%E8%AE%B0)
 4. [Python理论](https://github.com/yangruiling/CV-Interview-Q-A/blob/master/Python%E7%90%86%E8%AE%BA.md)
 5. [深度学习理论](https://github.com/yangruiling/CV-Interview-Q-A/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E7%90%86%E8%AE%BA.md)
 6. [深度学习实践](https://github.com/yangruiling/CV-Interview-Q-A/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E5%AE%9E%E8%B7%B5.md)
